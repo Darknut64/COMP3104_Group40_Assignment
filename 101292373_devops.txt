@@ -1,0 +1,1 @@
+Welcome to COMP 3104. In this course, students will learn the procedures, protocols, and best practices a DevOps engineer uses to boost productivity in a workplace. They will analyze, evaluate, and apply various DevOps implementations using industry-standard tools to solve complex business problems while following core DevOps responsibilities.
