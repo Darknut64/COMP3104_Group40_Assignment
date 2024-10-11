@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Landon Rehaut (101292373) - [GitHub](https://github.com/Darknut64)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Matthew Polick (101251527) - [GitHub](https://github.com/Matthew-101)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on 
